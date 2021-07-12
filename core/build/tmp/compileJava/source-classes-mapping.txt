@@ -1,2 +1,2 @@
-com/mygdx/game/Pong.java
- com.mygdx.game.Pong
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
